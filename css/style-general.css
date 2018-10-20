@@ -1,0 +1,32 @@
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+
+.navbar li .nav-element {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+}
+.navbar li .nav-element-title{
+	display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 34px;
+    float: left;
+}
+.navbar li .nav-element:hover {
+    background-color: none;
+}
+.header{
+	background-image: url(res/background.png);
+}
